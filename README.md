@@ -12,7 +12,7 @@ Bottles configuration and guide for using Photoshop CC (2024) on linux
 
 # How to use
 
-1. Import the bottle configuration into bottles
+1. Import the [bottle configuration](https://raw.githubusercontent.com/warofzen/bottles-photoshop/main/Photoshop.yml) into bottles
 2. Follow [MattKC's guide](https://forum.mattkc.com/viewtopic.php?t=336) from steps one to four. The wineprefix here is instead your bottle drive_c folder (you can access that by clicking the three dot on the top right and select browse files)
 3. Copy `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Adobe Photoshop 2024.ink` to the bottle aswell
 4. Restart bottles, and you'll see Photoshop on the Bottles programs list now
